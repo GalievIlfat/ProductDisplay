@@ -6,3 +6,5 @@
 - Kotlin Coroutines
 - Архитектурный паттер MVVM
 - LiveData для упрощения работу с данными
+
+![image](https://github.com/GalievIlfat/ProductDisplay/assets/74199502/58b3951b-9bbb-4ef3-b921-2bbcf51201f8)
